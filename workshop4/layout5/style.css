@@ -1,0 +1,63 @@
+div {
+    outline: 1px solid black;
+}
+
+.container {
+    width: 920px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.header {
+    width: 920px;
+    height: 200px;
+    background-color: blue;
+}
+
+    .yellowheader {
+        width: 150px;
+        height: 150px;
+        background-color: yellow;
+        float: right;
+        margin-right: 30px;
+        margin-top: 20px;
+    }
+
+.leftcolumn {
+    width: 320px;
+    height: 600px;
+    background-color: red;
+    float: left;
+}
+
+.content {
+    width: 600px;
+    height: 600px;
+    background-color: red;
+    float: left;
+}
+
+    .yellowcontent1 {
+        width: 150px;
+        height: 150px;
+        background-color: yellow;
+        float: left;
+        margin-top: 30px;
+        margin-left: 30px;
+    }
+
+    .yellowcontent2 {
+        width: 360px;
+        height: 540px;
+        background-color: yellow;
+        float: left;
+        margin-top: 30px;
+        margin-left: 30px;
+    }
+
+.bottom {
+    width: 920px;
+    height: 200px;
+    background-color: greenyellow;
+    float: left;
+}
