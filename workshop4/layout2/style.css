@@ -1,0 +1,43 @@
+div {
+    outline: 1px solid black;
+}
+
+.container {
+    width: 920px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.header {
+    width: 920px;
+    height: 200px;
+    background-color: blue;
+}
+
+.leftred {
+    width: 306px;
+    height: 600px;
+    background-color: red;
+    float: left;
+}
+
+.middlered {
+    width: 306px;
+    height: 600px;
+    background-color: red;
+    float: left;
+}
+
+.rightred {
+    width: 306px;
+    height: 600px;
+    background-color: red;
+    float: left;
+}
+
+.bottom {
+    width: 920px;
+    height: 200px;
+    background-color: green;
+    float: left
+}

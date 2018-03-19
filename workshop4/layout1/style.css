@@ -1,0 +1,33 @@
+body {
+    /*  background-color:red;  */
+}
+
+div {
+    outline: 1px solid lime;
+}
+
+.container {
+    width: 920px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.header {
+    width: 920px;
+    background-color: #0000FF;
+    height: 200px;
+}
+
+.submenu {
+    width: 220px;
+    background-color: red;
+    height: 500px;
+    float: left;
+}
+
+.content {
+    height: 500px;
+    background-color: green;
+    width: 700px;
+    float: left;
+}
