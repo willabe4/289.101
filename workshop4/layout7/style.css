@@ -1,0 +1,157 @@
+div {
+    outline: 2px solid black;
+}
+
+.container {
+    width: 920px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.header {
+    width: 920px;
+    height: 100px;
+    background-color: blue;
+}
+
+    .yellowheader1 {
+        width: 250px;
+        height: 70px;
+        background-color: yellow;
+        margin-top: 15px;
+        margin-left: 15px;
+        float: left;
+    }
+
+    .yellowheader2 {
+        width: 625px;
+        height: 70px;
+        background-color: yellow;
+        float: left;
+        margin-left: 15px;
+        margin-top: 15px;
+    }
+
+.contentgreen1 {
+    width: 920px;
+    height: 500px;
+    float: left;
+    background-color: greenyellow;
+}
+
+.contentred1 {
+    width: 920px;
+    height: 400px;
+    float: left;
+    background-color: red;
+}
+
+    .yellow1 {
+        width: 890px;
+        height: 100px;
+        float: left;
+        background-color: yellow;
+        margin-left: 15px;
+        margin-top: 15px;
+    }
+
+    .yellow2 {
+        width: 286px;
+        height: 255px;
+        float: left;
+        background-color: yellow;
+        margin-left: 15px;
+        margin-top: 15px;
+    }
+
+.contentblue {
+    width: 920px;
+    height: 700px;
+    float: left;
+    background-color: blue;
+}
+
+    .yellow3 {
+        width: 890px;
+        height: 100px;
+        background-color: yellow;
+        float: left;
+        margin-top: 15px;
+        margin-left: 15px;
+    }
+
+    .yellow4 {
+        width: 211.25px;
+        height: 175px;
+        float: left;
+        background-color: yellow;
+        margin-left: 15px;
+        margin-top: 15px;
+    }
+
+.contentgreen2 {
+    width: 920px;
+    height: 600px;
+    float: left;
+    background-color: greenyellow;
+}
+
+    .yellow5 {
+        width: 890px;
+        height: 125px;
+        float: left;
+        background-color: yellow;
+        margin-left: 15px;
+        margin-top: 15px;
+    
+    }
+
+    .yellow6 {
+        width: 286px;
+        height: 430px;
+        float: left;
+        background-color: yellow;
+        margin-top: 15px;
+        margin-left: 15px;
+    }
+
+.contentred2 {
+    width: 920px;
+    height: 550px;
+    float: left;
+    background-color: red;
+}
+
+    .yellow7 {
+        width: 890px;
+        height: 100px;
+        float: left;
+        background-color: yellow;
+        margin-top: 15px;
+        margin-left: 15px;
+    }
+
+    .yellow8 {
+        width: 587px;
+        height: 405px;
+        float: left;
+        background-color: yellow;
+        margin-top: 15px;
+        margin-left: 15px;
+    }
+
+    .yellow9 {
+        width: 288px;
+        height: 200px;
+        float: left;
+        background-color: yellow;
+        margin-top: 15px;
+        margin-left: 15px;
+    }
+
+.bottom {
+    width: 920px;
+    height: 100px;
+    background-color: blue;
+    float: left;
+}
