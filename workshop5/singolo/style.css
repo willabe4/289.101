@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css?family=Lato');
+
+body{
+    background-color: #f2f2f2;
+    margin: 0;
+    font-family: 'Lato', sans-serif;
+}
+
+div{
+    outline: 1px solid lime;
+}
+
+.header{
+    background-color: #2D303A;
+    color: #ffffff;
+    height: 90px;
+}
+
+.nav{
+    max-width: 950px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.logo{
+    float: left;
+    margin-top: 35px;
+    font-size: 1.4rem;
+}
+
+.links{
+    float: right;
+    margin-top: 40px;
+    font-size: 0.75rem;
+    color: #4b4e61;
+}
+
+.links a{
+    color: white;
+    text-decoration: none;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.links a:hover{
+    color: #f06c64;
+}
+
+.salmon{
+    color: #f06c64;
+}
+
+.banner{
+    background-color: #f06c64;
+    padding: 20px 0;
+    text-align: center;
+}
+
+.banner img{
+    max-width: 780px;
+    width: 90%;
+}
+
+.services{
+    height: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    color: #666d89;
+}
+
+.ourservices{
+    max-width: 950px;
+    height: 120px;
+    margin-top: 60px;
+    margin-left: auto;
+    margin-right: auto;   
+}
+
+.servicesinfo{
+    color: #767e9e;
+    
