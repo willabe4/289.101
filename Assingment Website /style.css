@@ -1,0 +1,60 @@
+div{
+    outline: 1px solid black;
+}
+
+.Header{
+    max-width: 920px;
+    max-height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.Him{
+    max-width: 230px;
+    height: 125px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 8rem;
+}
+
+.theartist{
+    max-width: 135px;
+    height: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 2rem;
+}
+
+.links{
+    max-width: 920px;
+    height: 20px;
+    margin-left: auto;
+    margin-right: auto;
+  
+}
+
+.links a{
+    padding-left: 75px;
+    padding-right: 57px;
+    color: black;
+    text-decoration: none;
+}
+
+.links a:hover{
+    color: brown;
+}
+
+.homeimage{
+    max-width: 920px;
+    height: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+}
+
+.about{
+    max-width: 920px;
+    height: 300px;
+    margin-left: auto;
+    margin-right: auto;
+}
