@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <title>event listening</title>
+    </head>
+    
+    <style>
+         #red{
+            background-color: red;
+        }
+        #blue{
+            background-color: blue;
+        }
+    </style>
+    
+    <body>
+        
+        <div id="hello_btn">
+            say hello
+        </div>
+    
+        <script>
+            var x = 10;
+            
+            document.getElementById("hello_btn").addEventListener('click', function(){
+//                alert('hello');
+                document.getElementById('hello_btn').style.color = "yellow";
+                document.getElementById('hello_btn').style.backgroundColor = "orange";
+                
+                console.log('color changes are applied');
+                
+                console.log(x);
+                x ++;
+            });
+        
+        </script>
+        
+    </body>
+
+
+</html>
